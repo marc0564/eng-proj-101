@@ -20,7 +20,7 @@
     <div class="blog-title">Common Misconceptions in Learning Programming</div>
     <div class="blog-author"> Marc Hosana</div>
      <div class="separator"></div>
-   <div class="blog-date"> April 23, 2023</div>
+   <div class="blog-date"> April 29, 2024</div>
   </div>
 
   <p>Have you ever wondered about the common goof-ups kids have when learning to code? Well, let’s dive into that. My study focuses on fifth-grade students learning Python, a popular programming language, and I wanted to see what misconceptions were persistent amongst students, and ultimately dissect these problems to find ways to address and avoid them.</p>
